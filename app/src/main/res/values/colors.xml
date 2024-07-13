@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skyblue">#48cae4</color>
+    <color name="fadeblue">#caf0f8</color>
+    <color name="fadeskin">#fcd5ce</color>
+    <color name="green">#d8e2dc</color>
+    <color name="grey">#6c757d</color>
+    <color name="greenishBlue">#52b69a</color>
+        <color name="blue">#023e8a</color>
+    <color name="g">#415d43</color>
+</resources>

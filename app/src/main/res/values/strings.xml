@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="btn_1">Next &#8594;</string>
+    <string name="heading_one"> Personal Info.</string>
+    <string name="univName">Bharath Institute of Science and Research.</string>
+    <string name="univ_link"><a>..Know More..</a></string>
+    <string name="Edu_info">
+        Electronics Communication Engineering.\n
+        CGPA 9.0||2021-2025
+    </string>
+    <string name="personal_info">Personal Info.</string>
+    <string-array name="details">
+        <item>Name: Pasala.Sai Sudheer.</item>
+        <item>D.O.B : 23/12/2003.</item>
+        <item>Gender :Male.</item>
+        <item>Hobbies : Agriculture | Listening Music | Movies |Surfing Internet.</item>
+    </string-array>
+    <string name="viewResume">View Resume</string>
+    <string name="resume">Download Resume </string>
+    <string name="contact">Contact Me.</string>
+    <string name="heading_resume">Resume.</string>
+    <string name="hint1">First Name</string>
+    <string name="hint2">Last Name</string>
+    <string name="hint3">Email</string>
+    <string name="message">Please Enter Your Message</string>
+    <string name="Send">SEND</string>
+    <string name="publicProfiles">Public_Profiles.</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="git">Git</string>
+    <string name="certifications">Certifications</string>
+    <string name="mobile">+91 9182257437</string>
+    <string name="Emailadress">pasalasaisudheer@gmail.com</string>
+    <string name="RedirectEmail">Note : Click Email_Id to send Reach Out.</string>
+
+
+
+
+</resources>
